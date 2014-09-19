@@ -12,3 +12,10 @@ COLLATE='cp1251_general_ci'
 ENGINE=InnoDB;
 
 INSERT INTO `borodatos`.`comics` (`id`, `title`, `brief`, `content`, `author`, `link`) VALUES (1, 'Comics here!', 'We are looking for comics', 'Ololo asdfasdf adsflkasdf sa fjsaldk asd faslk. asdlkfjas.', 'Boro', 'comics-here');
+
+
+1. Кодировка.
+2. Расположение файлов img.
+3. Страница 404.
+4. База.
+5. Логично ли хранить в базе контент с разметкой и img?
